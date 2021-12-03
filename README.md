@@ -68,3 +68,12 @@ Contoh:
 
 ### Menjalankan project (debugging)
 Tekan F5 atau tombol Start untuk memulai debugging project
+
+
+# Referensi
+* https://youtu.be/TCqEsGf7i7Q
+* https://youtu.be/jTEdjRtj-fs
+* https://youtu.be/IRRiN2ZQDc8
+* https://youtu.be/hYpRQ_FE1JI
+* https://github.com/pedroslopez/whatsapp-web.js
+* https://medium.com/devops-dudes/securing-node-js-express-rest-apis-with-keycloak-a4946083be51
