@@ -93,7 +93,8 @@ Partial Class LoginForm
         Me.Controls.Add(Me.txtboxPassword)
         Me.Controls.Add(Me.txtboxUsername)
         Me.Name = "LoginForm"
-        Me.Text = "LoginForm"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Login"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
